@@ -63,6 +63,12 @@ button:focus {
 small {
   color: red;
 }
+#tnc {
+  color: grey;
+}
+span {
+  color: red;
+}
 @media screen and (max-width: 768px) {
   h1,
   p {
